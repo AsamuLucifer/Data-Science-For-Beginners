@@ -1,3 +1,15 @@
+---
+
+<div align="center">
+
+🇨🇳 **[点击查看中文版本](./README.zh-CN.md)** | **简体中文 README**
+
+> **数据科学入门** — 微软官方开源课程，完整中文翻译版本
+
+</div>
+
+---
+
 # Data Science for Beginners - A Curriculum
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198)
